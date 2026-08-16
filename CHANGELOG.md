@@ -32,7 +32,7 @@ All notable changes to `rust-pcre2`.
 
 ### Integration
 
-- Consumed by `rust/grep` for `-P` mode; `grep` passes 121/121 GNU grep 3.12
+- Consumed by `safety/oxidized/grep` for `-P` mode; `grep` passes 121/121 GNU grep 3.12
   tests.
 
 ## Not yet implemented
